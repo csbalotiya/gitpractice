@@ -1,1 +1,6 @@
 name = file1
+
+conflict1234
+brnach3 chnages
+
+just new change
